@@ -20,8 +20,6 @@ A simple increasing triangle pattern where the number of stars increases with ea
 ### 2. Inverse Star Pattern
 A decreasing triangle pattern where the number of stars reduces after every row.
 
-File:
-`02_inverse_triangle.py`
 
 ---
 
