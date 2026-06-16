@@ -1,3 +1,4 @@
+#BUTTERFLY PATTERN
 num = int(input("Enter num of rows: "))
     
 
